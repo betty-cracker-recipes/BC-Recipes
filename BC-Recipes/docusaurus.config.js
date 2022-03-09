@@ -26,12 +26,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/betty-cracker-recipes/betty-cracker-recipes.github.io/tree/main/betty-cracker-recipes.github.io',
+          editUrl: 'https://github.com/betty-cracker-recipes/BC-Recipes',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/betty-cracker-recipes/betty-cracker-recipes.github.io/tree/main/betty-cracker-recipes.github.io',
+          editUrl: 'https://github.com/betty-cracker-recipes/BC-Recipes',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -77,7 +77,7 @@ const config = {
              
               {
                 label: 'GitHub',
-                href: 'https://github.com/betty-cracker-recipes/betty-cracker-recipes.github.io/tree/main/betty-cracker-recipes.github.io',
+                href: 'https://github.com/betty-cracker-recipes/BC-Recipes',
                 // to:
                 // or href: '/docs/intro', is navigating example
 
