@@ -1,6 +1,8 @@
 /**
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
+
+ display flex to center 
  */
 
 .heroBanner {
@@ -10,14 +12,33 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
+@media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
   }
 }
 
 .buttons {
+  display: left; 
+  align-items: left;
+  justify-content: center;
+}
+
+.testBanner{
+  height: 400px;
+}
+
+.gals {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 2rem 0;
+  text-align: center;
+
+}
+
+.featureGal {
+  height: 80%;
+  width: 80%;
+  border-radius: 5%;
 }
