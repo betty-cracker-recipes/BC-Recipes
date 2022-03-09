@@ -10,7 +10,7 @@ const gals = [
   {
     title: 'Frosted Sugar Cookies',
     imageUrl: '/img/gallery/sugar-cookies.jpg',
-    webURL:'https://v1.docusaurus.io/docs/en/publishing',
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/',
   },
   {
     title: 'Frosted Sugar Cookies',
