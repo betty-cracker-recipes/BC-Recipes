@@ -9,15 +9,14 @@ const config = {
   title: 'Betty Cracker Recipes',
   tagline: 'Recipes for Breakfast, Lunch, Dinner, & Dessert',
   url: 'https:/betty-cracker-recipes.github.io',
-  baseUrl: '/',
+  baseUrl: '/BC-Recipes/',
   trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  
   organizationName: 'betty-cracker-recipes', //  GitHub org/user name.
-  projectName: 'betty-cracker-recipes.github.io', //Reepo name.
-  deploymentBranch: 'master',
+  projectName: 'BC-Recipes', //Reepo name.
+  
   
   presets: [
     [
