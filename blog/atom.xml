@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://betty-cracker-recipes.github.io/BC-Recipes/blog</id>
+    <title>Betty Cracker Recipes Blog</title>
+    <updated>2022-02-27T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://betty-cracker-recipes.github.io/BC-Recipes/blog"/>
+    <subtitle>Betty Cracker Recipes Blog</subtitle>
+    <icon>https://betty-cracker-recipes.github.io/BC-Recipes/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New Recipe Available]]></title>
+        <id>new-recipe</id>
+        <link href="https://betty-cracker-recipes.github.io/BC-Recipes/blog/new-recipe"/>
+        <updated>2022-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for something new to make for dinner? Try our chicken piccata recipe here]]></summary>
+        <content type="html"><![CDATA[<p>Looking for something new to make for dinner? Try our chicken piccata recipe <a href="http://localhost:3002/docs/dinner-bar/chicken-piccata" target="_blank" rel="noopener noreferrer">here</a></p><p><img loading="lazy" alt="Chicken Piccata" src="/BC-Recipes/assets/images/Picture2-6e2be5ea4f3736afbd288f575ab8ae89.png" width="690" height="394"></p>]]></content>
+        <author>
+            <name>Jessica Roberts</name>
+            <uri>https://github.com/betty-cracker-recipes</uri>
+        </author>
+        <category label="cooking" term="cooking"/>
+        <category label="dinners" term="dinners"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome!]]></title>
+        <id>welcome</id>
+        <link href="https://betty-cracker-recipes.github.io/BC-Recipes/blog/welcome"/>
+        <updated>2022-02-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our site! If you have any questions or recipe suggestions please send us an email]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to our site! If you have any questions or recipe suggestions please send us an <a href="mailto:llittlerob@gmail.com" target="_blank" rel="noopener noreferrer">email</a></p>]]></content>
+        <author>
+            <name>Jessica Roberts</name>
+            <uri>https://github.com/littl-rob-recipes</uri>
+        </author>
+        <category label="cooking" term="cooking"/>
+    </entry>
+</feed>

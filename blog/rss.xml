@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Betty Cracker Recipes Blog</title>
+        <link>https://betty-cracker-recipes.github.io/BC-Recipes/blog</link>
+        <description>Betty Cracker Recipes Blog</description>
+        <lastBuildDate>Sun, 27 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Recipe Available]]></title>
+            <link>https://betty-cracker-recipes.github.io/BC-Recipes/blog/new-recipe</link>
+            <guid>new-recipe</guid>
+            <pubDate>Sun, 27 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Looking for something new to make for dinner? Try our chicken piccata recipe here]]></description>
+            <content:encoded><![CDATA[<p>Looking for something new to make for dinner? Try our chicken piccata recipe <a href="http://localhost:3002/docs/dinner-bar/chicken-piccata" target="_blank" rel="noopener noreferrer">here</a></p><p><img loading="lazy" alt="Chicken Piccata" src="/BC-Recipes/assets/images/Picture2-6e2be5ea4f3736afbd288f575ab8ae89.png" width="690" height="394"></p>]]></content:encoded>
+            <category>cooking</category>
+            <category>dinners</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome!]]></title>
+            <link>https://betty-cracker-recipes.github.io/BC-Recipes/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to our site! If you have any questions or recipe suggestions please send us an email]]></description>
+            <content:encoded><![CDATA[<p>Welcome to our site! If you have any questions or recipe suggestions please send us an <a href="mailto:llittlerob@gmail.com" target="_blank" rel="noopener noreferrer">email</a></p>]]></content:encoded>
+            <category>cooking</category>
+        </item>
+    </channel>
+</rss>

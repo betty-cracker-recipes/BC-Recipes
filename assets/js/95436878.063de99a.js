@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbc_recipes=self.webpackChunkbc_recipes||[]).push([[657],{601:function(e){e.exports=JSON.parse('{"permalink":"/BC-Recipes/blog/tags/dinners","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
