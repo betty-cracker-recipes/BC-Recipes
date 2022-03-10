@@ -16,7 +16,7 @@ This section contains an overview of our dinner section. If your are interested 
     - Sugar cookies that can be rolled out for any cookie cutter and taste great.
   
 ## Pies
-- [Sugar Cream Pie](../dessert-bar/sugar-cream-pie.md.md/)
+- [Sugar Cream Pie](../dessert-bar/sugar-cream-pie.md/)
     - A low-effort, sweet vanilla-custard pie.
 - [Pumpkin Pie](../dessert-bar/pumpkin-pie.md/)
     - Recipe Coming Soon!
