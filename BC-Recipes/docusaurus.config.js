@@ -79,6 +79,7 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/betty-cracker-recipes/BC-Recipes',
+            
                 // to:
                 // or href: '/docs/intro', is navigating example
 

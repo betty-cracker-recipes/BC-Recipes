@@ -13,19 +13,29 @@ const gals = [
     webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/',
   },
   {
-    title: 'Frosted Sugar Cookies',
-    imageUrl: '/img/gallery/sugar-cookies.jpg',
-    webURL:'https://v1.docusaurus.io/docs/en/publishing',
+    title: 'Gingerbread Cookies',
+    imageUrl: '/img/gallery/gingerbread.jpg',
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
   },
   {
-    title: 'Frosted Sugar Cookies',
-    imageUrl: '/img/gallery/sugar-cookies.jpg',
-    webURL:'https://v1.docusaurus.io/docs/en/publishing',
+    title: 'Pumpkin Muffins',
+    imageUrl: '/img/gallery/pumpkin.jpg',
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/pumpkin-bread/',
   },
   {
-    title: 'Frosted Sugar Cookies',
-    imageUrl: '/img/gallery/sugar-cookies.jpg',
-    webURL:'https://v1.docusaurus.io/docs/en/publishing',
+    title: 'Breakfast Burrito',
+    imageUrl: '/img/gallery/breakfast-burrito.jpg',
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/breakfast-burrito/',
+  },
+  {
+    title: 'BLT Sandwhich',
+    imageUrl: '/img/gallery/blt.jpg',
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/blt-sandwhich/',
+  },
+  {
+    title: 'Chicken Piccata',
+    imageUrl: '/img/gallery/piccata.jpg',
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dinner-bar/chicken-piccata/',
   },
 ];
  {/* This is the Feature function that styles the images and puts them in divs */}
