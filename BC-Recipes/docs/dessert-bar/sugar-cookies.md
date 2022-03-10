@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 title: Sugar Cookies
 sidebar_title: Sugar Cookies
 ---
