@@ -6,7 +6,7 @@ authors:
   title: Aspiring Chef
   url: https://github.com/betty-cracker-recipes
   image_url: https://github.com/betty-cracker-recipes.png
-tags: [cooking, dinners]
+  tags: [cooking, dinners]
 ---
 
 Looking for something new to make for dinner? Try our chicken piccata recipe [here](https://betty-cracker-recipes.github.io/BC-Recipes/docs/dinner-bar/chicken-piccata/)
