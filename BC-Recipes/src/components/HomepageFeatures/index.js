@@ -8,57 +8,34 @@ const FeatureList = [
   {
     title: 'Brunch Recipes',
     Svg: require('@site/static/img/landing/brunch.svg').default,
+    href: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/',
   },
   
   {
     title: 'Dinner Recipes',
     Svg: require('@site/static/img/landing/dinner.svg').default,
+    href: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/',
   },
   {
     title: 'Dessert Recipes',
     Svg: require('@site/static/img/landing/dessert.svg').default,
-    /* description: (
-      <>
-        Description here
-      </>
-    ), */
+    href: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/',
   },
 ];
 
-function Feature({Svg, title/* , description */}) {
+function Feature({Svg, title}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-       {/*  <p>{description}</p> */}
+        <h3>{title} </h3>
       </div>
     </div>
-  
-
   );
-}
-/* function Feature ({Svg, title, webURL}) {
-  const imgUrl = useBaseUrl(imageUrl);
+} 
 
-  return (
-    
-    <div className={clsx('col col--4', styles.features)}>
-      <Link to={webURL}>
-      {Svg && (
-          <div className="text--center">
-            <img className={styles.featureImage} src={imgUrl} alt={title} />
-          </div>
-      )}
-      <h3>{title}</h3>
-      </Link>
-    </div>
-  );
-} */
-
-//use above to link svg text to landing pages
 
 export default function HomepageFeatures() {
   return (
@@ -72,7 +49,7 @@ export default function HomepageFeatures() {
       </div>
     </section>
   );
-}
+} 
 
 
 
