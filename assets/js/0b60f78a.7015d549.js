@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbc_recipes=self.webpackChunkbc_recipes||[]).push([[355],{9707:function(e){e.exports=JSON.parse('{"allTagsPath":"/BC-Recipes/blog/tags","slug":"/BC-Recipes/blog/tags/cooking","name":"cooking","count":2,"permalink":"/BC-Recipes/blog/tags/cooking"}')}}]);
