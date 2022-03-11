@@ -1,12 +1,12 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 title: Cheddar Ale Soup
 sidebar_title: Cheddar Ale Soup
 ---
 
 # Cheddar Ale Soup Recipe
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Description
 
 ## Ingredients:
  - 4 tbsp. salted butter

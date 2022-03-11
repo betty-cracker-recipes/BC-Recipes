@@ -1,19 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: BLT Sandwhich
 sidebar_title: BLT Sandwhich
 ---
 
-# BLT Sandwhich
+# BLT Sandwhich Recipe
 
-Description
-
-## Ingredients
-  - 
-
-## Preparation
-  - 
-
-## Instructions
-  1. 
+## Recipe Coming Soon! Check Back Later :)
   

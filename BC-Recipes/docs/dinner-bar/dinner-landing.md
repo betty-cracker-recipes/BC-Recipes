@@ -8,20 +8,33 @@ sidebar_title: Explore Dinners
 This section contains an overview of our dinner section. If your are interested in any of the recipes listed please navigate to the recipe from our sidebar. The search feature may also be used to explore recipes.
 
 ## Soups
-- Cheddar Ale Soup
-- Chicken Soup (TBA)
+- [Cheddar Ale Soup](../dinner-bar/cheddar-ale-soup.md/)
+    - Recipe Coming Soon!
+- [Chicken Soup](../dinner-bar/chicken-soup.md/)
+    - Recipe Coming Soon!
 
 ## Chicken Dishes
-- Chicken Piccata
-- Chicken Parm **(TBA)**
-- Lemon Cream Chicken (TBA)
+- [Chicken Piccata](../dinner-bar/chicken-piccata.md/)
+    - Description here
+- [Chicken Parm](../dinner-bar/chicken-parm.md/)
+    - Recipe Coming Soon!
+- [Creamy Lemon Chicken](../dinner-bar/lemon-chicken.md/)
+    - Recipe Coming Soon!
+- [Chicken Marsala](../dinner-bar/chicken-marsala.md/)
+    - Recipe Coming Soon!
 
 ## Pork Dishes
-- Sausage & Peppers (TBA)
+- [Sausage & Peppers](../dinner-bar/sausage-peppers.md/)
+    - Recipe Coming Soon!
 
 ## Fish Dishes
-- Mango Salmon (TBA)
+- [Mango Salmon](../dinner-bar/mango-salmon.md/)
+    - Recipe Coming Soon!
+- [Spicy Lemon Sole](../dinner-bar/lemon-sole.md/)
+    - Recipe Coming Soon!
 
-## Vegetable Dishes
-- Eggplant Parm (TBA)
-- Twice Baked Potatoes
+## Vegetarian Dishes
+- [Eggplant Parm](../dinner-bar/eggplant.md/)
+    - Recipe Coming Soon!
+- [Twice Baked Potatoes](../dinner-bar/twice-baked-potatoes.md/)
+    - Description here

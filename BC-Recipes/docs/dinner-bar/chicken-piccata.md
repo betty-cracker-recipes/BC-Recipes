@@ -1,12 +1,12 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 title: Chicken Piccata
 sidebar_title: Chicken Piccata
 ---
 
 # Chicken Piccata Recipe
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Description
 
 ## Ingredients
   - Chicken Cutlets

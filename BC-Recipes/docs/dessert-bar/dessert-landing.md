@@ -22,6 +22,8 @@ This section contains an overview of our dinner section. If your are interested 
     - Recipe Coming Soon!
 - [Bourbon Pecan Pie](../dessert-bar/bourbon-pecan-pie.md/)
     - Recipe Coming Soon!
+- [Bailey's Chocolate Pie](../dessert-bar/baileys-pie.md/)
+    - Recipe Coming Soon!
 
 ## Bread & Cupcakes
 - [Pumpkin Bread](../dessert-bar/pumpkin-bread.md/)

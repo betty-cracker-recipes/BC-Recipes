@@ -5,11 +5,12 @@ sidebar_title: Breakfast Burrito
 ---
 
 # Breakfast Burrito
-
-Description
+Veggie egg-white breakfast burrito topped with ketchup & everything bagel seasoning.
 
 ## Ingredients
-  - 
+  - Ketchup
+  - Everything Bagel Seasoning
+  - 1 Onion
 
 ## Preparation
   - 

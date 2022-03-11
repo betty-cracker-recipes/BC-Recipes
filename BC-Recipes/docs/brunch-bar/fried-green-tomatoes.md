@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: Fried Green Tomatoes
 sidebar_title: Fried Green Tomatoes
 ---
@@ -9,10 +9,10 @@ sidebar_title: Fried Green Tomatoes
 Docusaurus creates a **page for each blog post**
 ## Ingredients:
  - Tomatoes (½ in. sliced)
- - Eggs
- - Panko bread crumbs 
- - Flour
- - Butter
+ - 2 Eggs
+ - Panko Bread Crumbs 
+ - All-Purpose Flour
+ - 2 tbsp. Butter
  - Oil
 
 ## Instructions:

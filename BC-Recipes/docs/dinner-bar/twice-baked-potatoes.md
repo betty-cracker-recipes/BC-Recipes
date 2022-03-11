@@ -1,12 +1,11 @@
 ---
-sidebar_position: 3
+sidebar_position: 12
 title: Twice Baked Potatoes
 sidebar_title: Twice Baked Potatoes
 ---
 
 # Twice Baked Potatoes Recipe
-
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Description
 
 ## Ingredients
   - Chicken Cutlets
