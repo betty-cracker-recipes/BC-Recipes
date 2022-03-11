@@ -13,7 +13,7 @@ This section contains an overview of our breakfast and lunch section. If your ar
     - Veggie egg-white breakfast burrito topped with ketchup & everything bagel seasoning.
 - [Cucumber Avocado Toast](../brunch-bar/avocado-toast.md/)
     - Recipe Coming Soon!
-- [Bacon Egg & Cheese Bagel]()
+- [Bacon Egg & Cheese Bagel](../brunch-bar/bec-sandwhich.md/)
     - Recipe Coming Soon!
 
 ## Lunch Dishes
