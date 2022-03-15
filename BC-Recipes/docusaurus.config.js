@@ -68,7 +68,7 @@ const config = {
       },
       algolia: {
           apiKey:'7620e4a336aed4677389a8cc46babb57',
-          indexName:'betty-cracker-recipes',
+          indexName:'bc',
           appId:'33MRM77352',
       },
       footer: {

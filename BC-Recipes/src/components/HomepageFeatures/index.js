@@ -1,6 +1,10 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+/* 
+import algoliasearch from 'algoliasearch/lite';
+const client = algoliasearch('33MRM77352', '8d22c3928245fb60240865a55fcfb0ae');
+const index = client.initIndex('bc'); */
 
 const FeatureList = [
   {
