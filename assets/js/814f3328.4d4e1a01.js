@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbc_recipes=self.webpackChunkbc_recipes||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New Recipe Available","permalink":"/BC-Recipes/blog/new-recipe"},{"title":"Welcome!","permalink":"/BC-Recipes/blog/welcome"}]}')}}]);

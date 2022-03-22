@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbc_recipes=self.webpackChunkbc_recipes||[]).push([[6945],{6945:function(e,c,s){s.r(c)}}]);
