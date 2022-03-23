@@ -11,21 +11,12 @@ The following software must be installed on your device in order to modify the w
 
 ### Site Set Up
 
-```
-$ yarn start
-```
-
+#### Docusaurus & Local Folder
 1. Open file explorer and create a new folder titled `BC-Recipes` 
 2. Click on the file path for this new folder on the top of the file explorer, highlight it and type `cmd` and press `enter`.
 3. A new command line should appear, here you can type `npx create-docusaurus@latest BC-Recipes classic --typescript` this will create a pre-populated subfolder from the static site generator [Docusaurus 2](https://docusaurus.io/)
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+#### Linking to Git Repo
 
 ### Local Development
 ```
@@ -37,16 +28,17 @@ To test changes without pushing them to the git repository or deploying them to 
 ```
 cd BC-Recipes
 ```
-Enter the repository folder
+Navigate to repository folder.
 
 ```
 cmd /C "set GIT_USER=betty-cracker-recipes&& yarn deploy"
 ```
-Push changes to the deployment branch. The first time this command is run should create the gh-pages branch.
+Push changes to the deployment branch. 
+The first time this command is run should create the gh-pages branch.
 
-### Resources
+### Additional Resources
+- [Undraw](https://undraw.co/illustrations) for HomePage Images
+- [Favicon](https://favicon.io/) for Site Icon
+- [Algolia](https://www.algolia.com/) for Search Feature
 
-photo sources undraw,
-algolia,
-favicon
 
