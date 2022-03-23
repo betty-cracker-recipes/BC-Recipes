@@ -33,10 +33,14 @@ This command generates static content into the `build` directory and can be serv
 ```
 To test changes without pushing them to the git repository or deploying them to the live site this command can be used. It will open a local host window in your browser which runs the site and allows you to view change in real time without committing them.
 
-### Deployment
+### Github Pages Deployment
 ```
 cd BC-Recipes
+```
+Enter the repository folder
+
+```
 cmd /C "set GIT_USER=betty-cracker-recipes&& yarn deploy"
 ```
+Push changes to the deployment branch. The first time this command is run should create the gh-pages branch.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
