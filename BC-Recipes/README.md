@@ -1,23 +1,23 @@
 # Documentation
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
 ### Installations
 
 The following software must be installed on your device in order to modify the website locally and/ or deploy changes.
 
-    - Git
-    - VS Code
-    - Yarn
-    - Node JS
+- [Git](https://git-scm.com/downloads)
+- [VS Code](https://code.visualstudio.com/download)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+- [Node JS](https://nodejs.org/en/download/)
 
-### Docusaurus Site Generator
+### Site Set Up
 
 ```
 $ yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+1. Open file explorer and create a new folder titled `BC-Recipes` 
+2. Click on the file path for this new folder on the top of the file explorer, highlight it and type `cmd` and press `enter`.
+3. A new command line should appear, here you can type `npx create-docusaurus@latest BC-Recipes classic --typescript` this will create a pre-populated subfolder from the static site generator [Docusaurus 2](https://docusaurus.io/)
 
 ### Build
 
@@ -43,4 +43,10 @@ Enter the repository folder
 cmd /C "set GIT_USER=betty-cracker-recipes&& yarn deploy"
 ```
 Push changes to the deployment branch. The first time this command is run should create the gh-pages branch.
+
+### Resources
+
+photo sources undraw,
+algolia,
+favicon
 
