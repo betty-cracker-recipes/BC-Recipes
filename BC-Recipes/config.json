@@ -1,10 +1,7 @@
 {
     "index_name": "bc",
-    "start_urls": [
-      "https://betty-cracker-recipes.github.io/BC-Recipes/"
-    ],
     "sitemap_urls": [
-      "https://betty-cracker-recipes.github.io/BC-Recipes/sitemap.xml"
+      "https://10.0.0.185:3000/sitemap.xml"
     ],
     "sitemap_alternate_links": true,
     "stop_urls": [],
