@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Betty Cracker Recipes',
-  tagline: 'Recipes for Breakfast, Lunch, Dinner, & Dessert',
+  title: 'Betty Cracker Recipes', //site title
+  tagline: 'Recipes for Breakfast, Lunch, Dinner, & Dessert', //tagline on homepage
   url: 'https:/betty-cracker-recipes.github.io',
   baseUrl: '/BC-Recipes/',
   trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.ico', // tab image
   organizationName: 'betty-cracker-recipes', //  GitHub org/user name.
   projectName: 'BC-Recipes', //Reepo name.
   
@@ -66,14 +66,17 @@ const config = {
           }, */
         ],
       },
+      // Makes the Algolia Docsearch bar appear
+      // apiKey, indexName and appId are all created within Algolia account
       algolia: {
           apiKey:'7620e4a336aed4677389a8cc46babb57',
           indexName:'bc',
           appId:'33MRM77352',
       },
+
+      // Footer: can add or remove links and/ or copyright stamp
       footer: {
         style: 'dark',
-        
         links: [
       
        
