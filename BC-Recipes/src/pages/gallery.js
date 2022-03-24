@@ -6,6 +6,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+// List of all pictures that will appear in the gallery section
 const gals = [
   {
     title: 'Frosted Sugar Cookies',
@@ -38,7 +39,8 @@ const gals = [
     webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dinner-bar/chicken-piccata/',
   },
 ];
- {/* This is the Feature function that styles the images and puts them in divs */}
+ 
+//function to format and organize the above gallery list info
  function Gal({imageUrl, title, webURL}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
@@ -55,6 +57,7 @@ const gals = [
   );
 }
 
+// function that takes the list, as well as other information and prints it to the screen
 export default function Gallery() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;

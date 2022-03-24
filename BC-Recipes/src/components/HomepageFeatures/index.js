@@ -6,6 +6,7 @@ import algoliasearch from 'algoliasearch/lite';
 const client = algoliasearch('33MRM77352', '8d22c3928245fb60240865a55fcfb0ae');
 const index = client.initIndex('bc'); */
 
+// list of homepage images and descriptions that link to landing pages, if additional sections are created they can be added here
 const FeatureList = [
   {
     title: 'Brunch Recipes',
@@ -24,6 +25,8 @@ const FeatureList = [
     url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/dessert-landing/',
   },
 ];
+
+// The following functions appropriately format the svgs, organize the above attributes, and link the URLs 
 
 function Feature({Svg, title, url}) {
   return (

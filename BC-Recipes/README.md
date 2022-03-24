@@ -24,15 +24,17 @@ The following software must be installed on your device in order to modify the w
 5. Commit the change with `git commit -m "intial commit"` and press `enter`
 6. Use the steps provided by github to push an existing repository from the command line
     ```
-        git remote add origin https://github.com/betty-cracker-recipes/BC-Recipes.git
-        git branch -M main
-        git push -u origin main
+      git remote add origin https://github.com/betty-cracker-recipes/BC-Recipes.git
+      git branch -M main
+      git push -u origin main
     ```
 ### Local Development
 ```
  yarn start
 ```
-To test changes without pushing them to the git repository or deploying them to the live site this command can be used. It will open a local host window in your browser which runs the site and allows you to view change in real time without committing them.
+To test changes without pushing them to the git repository or deploying them to the live site this command can be used. 
+
+It will open a window in your browser which runs the site locally and allows you to view change in real time without committing them.
 
 ### Github Pages Deployment
 ```
@@ -52,6 +54,6 @@ The first time this command is run should create the gh-pages branch.
 - [ICONS8](https://icons8.com/icons/set/favicon): Main Site Icon
 - [Favicon](https://favicon.io/): Site Tab Icon
 - [Algolia](https://www.algolia.com/): Search Feature
-    - For more info on Algolia DocSearch [click here](https://docsearch.algolia.com/docs/crawler/)
+    - For more info on how to use Algolia DocSearch [click here](https://docsearch.algolia.com/docs/crawler/)
 
 
