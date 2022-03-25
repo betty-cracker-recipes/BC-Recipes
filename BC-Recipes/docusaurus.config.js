@@ -69,7 +69,7 @@ const config = {
       // Makes the Algolia Docsearch bar appear
       // apiKey, indexName and appId are all created within Algolia account
       algolia: {
-          apiKey:'7620e4a336aed4677389a8cc46babb57',
+          apiKey:'095d0154d0a88751c86fdf134f5f5775',
           indexName:'bc',
           appId:'33MRM77352',
       },
