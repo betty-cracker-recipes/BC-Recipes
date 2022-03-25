@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+//import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // svg list
 
@@ -29,43 +29,23 @@ const FeatureList = [
 
 //
 function Feature({Svg, title, url}) {
+  const svgUrl = (Svg);
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} 
-        />
-        
-      </div>
+        <Link to={url}>
+      {Svg && (
+          <div className="text--center">
+            <Svg className={styles.featureSvg} alt={title} />
+          </div>
+      )}
       <div className="text--center padding-horiz--md">
-      {url ? (
-          <h3>
-            <a href={url} target="_blank">
-              {title}
-            </a>
-          </h3>
-        ) : (
-          <h3>{title}</h3>
-        )}
+        <h3>{title}</h3>
       </div>
+      </Link>
+      
     </div>
   );
 } 
-
-/* function Gal({imageUrl, title, webURL}) {
-  const imgUrl = useBaseUrl(imageUrl);
-  return (
-    <div className={clsx('col col--4', styles.gals)}>
-      <Link to={webURL}>
-      {imgUrl && (
-          <div className="text--center">
-            <img className={styles.featureGal} src={imgUrl} alt={title} />
-          </div>
-      )}
-      <h3>{title}</h3>
-      </Link>
-    </div>
-  );
-} */
 
 //Formats the Homepage Header, use to edit website title on homescreen, tagline, email sign up button
 function HomepageHeader() {
@@ -87,8 +67,8 @@ function HomepageHeader() {
   );
 }
 
-export default function Gallery() {
-  //const context = useDocusaurusContext();
+export default function Home() {
+ const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
     <Layout
@@ -98,7 +78,7 @@ export default function Gallery() {
         <HomepageHeader />
    
       <main>
-        {gals && gals.length > 0 && (
+        {FeatureList && FeatureList.length > 0 && (
          <section className={styles.features}>
           <div className="container">
             <div className="row">
@@ -114,27 +94,3 @@ export default function Gallery() {
     </Layout>
   );
 }
-// Function to physically print the above information to the homescreen, combines the homepageHeader with the Homepagefeatures from the index JS file in the components folder
-/* export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
-    </Layout>
-  );
-} 
-
-<section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-    </section> */
