@@ -80,5 +80,6 @@ The first time this command is run should create the gh-pages branch.
 - [Favicon](https://favicon.io/): Site Tab Icon
 - [Algolia](https://www.algolia.com/): Search Feature
     - For more info on how to use Algolia DocSearch [click here](https://docsearch.algolia.com/docs/crawler/)
+- [MailChimp](): Email List Management
 
 
