@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://docs.google.com/forms/d/e/1FAIpQLSdr9YBCv5DN3QK-PF1gSG_6JNtd8x7qWUSxMe7hFe3W5ReB6A/viewform?usp=pp_url">
+            to="https://github.us14.list-manage.com/subscribe/post?u=1b3debc5f2913fafd34b5b7df&id=9f9be4559b">
             Sign Up for Emails
           </Link>
         </div>
