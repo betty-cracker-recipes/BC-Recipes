@@ -27,7 +27,32 @@ The following software must be installed on your device in order to modify the w
       git remote add origin https://github.com/betty-cracker-recipes/BC-Recipes.git
       git branch -M main
       git push -u origin main
-    ```
+     ```
+### Crawling the Site
+Use the Algolia Docsearch Crawler documentation from the resources section below to create a search bar. This documentation will also take you through all the necessary installations to get the search feature working.
+
+Once the `.env` and `config.json` files are created, modify the `docusaurus.config.js` file to include Algolia. The theme config should be modified to include: 
+ ```
+   algolia: {
+          apiKey:'095d0154d0a88751c86fdf134f5f5775',
+          indexName:'bc',
+          appId:'33MRM77352',
+      },
+ ```
+
+ Once all these steps are complete you will need to open the Git Bash Terminal and run the following commands:
+
+ 1. Enter the site folder:
+  ```
+  cd "C:\Users\Jessica\Desktop\BC-Recipes"
+  ```
+ 2. Crawl the site:
+  ```
+  docker run --env-file=.env -e "CONFIG=$(cat ./config.json | jq -r tostring)" algolia/docsearch-scraper
+  ```
+
+
+   
 ### Local Development
 ```
  yarn start
