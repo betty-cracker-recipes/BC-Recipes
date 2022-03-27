@@ -23,7 +23,7 @@ This section contains an overview of our dinner section. If your are interested 
 - [Bourbon Pecan Pie](../dessert-bar/bourbon-pecan-pie.md/)
     - Recipe Coming Soon!
 - [Bailey's Chocolate Pie](../dessert-bar/baileys-pie.md/)
-    - Recipe Coming Soon!
+    - No bake desseert with an Oreo cookie crust and a Baileys Irish Cream, chocolate cheesecake flavored filling.
 
 ## Bread & Cupcakes
 - [Pumpkin Bread](../dessert-bar/pumpkin-bread.md/)
