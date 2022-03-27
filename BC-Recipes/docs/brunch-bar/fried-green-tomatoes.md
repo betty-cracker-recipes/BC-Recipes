@@ -4,7 +4,7 @@ title: Fried Green Tomatoes
 sidebar_title: Fried Green Tomatoes
 ---
 
-# Fried Green Tomato Recipe
+# Fried Green Tomatoes 
 Fried green tomatoes are a classic Southern dish. Eat as a meal or serve them as a side.
 
 ## Ingredients:

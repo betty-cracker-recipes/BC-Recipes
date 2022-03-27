@@ -4,7 +4,7 @@ title: BLT Sandwhich
 sidebar_title: BLT Sandwhich
 ---
 
-# BLT Sandwhich Recipe
+# BLT Sandwhich
 Double layer bacon lettuce tomato sandwhich.
 
 ## Ingredients
