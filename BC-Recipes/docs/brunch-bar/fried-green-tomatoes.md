@@ -5,17 +5,22 @@ sidebar_title: Fried Green Tomatoes
 ---
 
 # Fried Green Tomato Recipe
+Fried green tomatoes are a classic Southern dish. Eat as a meal or serve them as a side.
 
-Docusaurus creates a **page for each blog post**
 ## Ingredients:
- - Tomatoes (½ in. sliced)
- - 2 Eggs
- - Panko Bread Crumbs 
- - All-Purpose Flour
+ - 3 Medium Green Tomatoes (½ in. sliced)
+ - 1 Egg
+ - 1/2 cup milk
+ - 1/2 cup Panko Bread Crumbs 
+ - 1 cup All-Purpose Flour
  - 2 tbsp. Butter
- - Oil
+ - 1/4 cup Olive Oil
 
 ## Instructions:
- 1. Heat oil and butter in skillet over medium heat.
- 2. Dip tomatoes in flour, egg, then panko crumbs.
- 3. Pan fry 3 to 4 minutes per side until golden brown
+ 1. Cut unpeeled tomatoes into 1/2 inch slices.
+ 2. Place flour, scrambled egg & milk mixture, and breadcrumbs in three seperate bowls.
+ 3. Heat the oil in a skillet on medium heat. 
+ 4. Dip the green tomato slices in the flour-seasoning, then the buttermilk-egg mixture, then the breadcrumbs.
+ 5. In the skillet, fry half of the coated tomato slices at a time, for 3-5 minutes on each side or until brown.
+ 6. Set the cooked tomatoes on paper towels to drain.
+ 7. Optional: serve with hot sauce

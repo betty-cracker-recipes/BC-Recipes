@@ -11,6 +11,9 @@ Veggie egg-white breakfast burrito topped with ketchup & everything bagel season
   - Ketchup
   - Everything Bagel Seasoning
   - 1 Onion
+  - Spinach 
+  - Eggs
+  - Tortilla
 
 ## Preparation
   - 

@@ -25,12 +25,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl: 'https://github.com/betty-cracker-recipes/BC-Recipes',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl: 'https://github.com/betty-cracker-recipes/BC-Recipes',
         },
         theme: {
