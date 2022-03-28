@@ -7,10 +7,9 @@ import styles from './index.module.css';
 //import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // svg list
-
 const FeatureList = [
   {
-    title: 'Brunch Recipes',
+    title: 'Brunch Recipes', // Homepage 
     Svg: require('@site/static/img/landing/brunch.svg').default,
     url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/',
   },

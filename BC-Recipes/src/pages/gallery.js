@@ -9,9 +9,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 // List of all pictures that will appear in the gallery section
 const gals = [
   {
-    title: 'Frosted Sugar Cookies',
-    imageUrl: '/img/gallery/sugar-cookies.jpg',
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/',
+    title: 'Frosted Sugar Cookies', //label that appears under image
+    imageUrl: '/img/gallery/sugar-cookies.jpg', //path to image in static img folder
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/', //link to corresponding recipe site page
   },
   {
     title: 'Gingerbread Cookies',
@@ -40,11 +40,11 @@ const gals = [
   },
 ];
  
-//function to format and organize the above gallery list info
+//function to format and organize the above gallery list info, links text and image to proper url
  function Gal({imageUrl, title, webURL}) {
-  const imgUrl = useBaseUrl(imageUrl);
+  const imgUrl = useBaseUrl(imageUrl); //allows image path to be used
   return (
-    <div className={clsx('col col--4', styles.gals)}>
+    <div className={clsx('col col--4', styles.gals)}> 
       <Link to={webURL}>
       {imgUrl && (
           <div className="text--center">
@@ -77,7 +77,7 @@ export default function Gallery() {
         {gals && gals.length > 0 && (
           <section className={styles.gals}>
             <div className="container">
-               {/* This displays the pictures */}
+               {/* Displays gallery images from list */}
               <div style={{alignItems: 'center', justifyContent: 'space-evenly'}} className="row">
                 {gals.map((props, idx) => (
                   <Gal key={idx} {...props} />
