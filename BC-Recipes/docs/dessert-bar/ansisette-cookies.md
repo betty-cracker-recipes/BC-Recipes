@@ -18,7 +18,7 @@ Frosted liquorice flavored cookies.
   - ½ tsp. Salt	
 
 
-#### Preparation
+### Preparation
   - Preheat the oven to 375°F.
 
 ### Instructions
@@ -33,7 +33,7 @@ Frosted liquorice flavored cookies.
 # Anisette Cookie Glaze
   A light glaze for a sweeter taste, while the frosting is drying the cookies can also top with sprinkles.
 
-  ### Glaze Ingredients:
+ ### Glaze Ingredients:
   - 2 cups Confectioners' Sugar
   - 2-4 tbsp. Milk
 

@@ -7,7 +7,7 @@ sidebar_title: Sugar Cream Pie
 # Sugar Cream Pie
 A low-effort, sweet vanilla-custard pie.
 
-## Ingredients
+### Ingredients
   - ¾ cup Granulated Sugar
   - ¼ cup Corn Starch
   - ½ tsp. Cinnamon, for garnish
@@ -17,10 +17,10 @@ A low-effort, sweet vanilla-custard pie.
   - 1 cup Heavy Cream
   - 1 Whole Pie Crust
 
-## Preparation
+### Preparation
   - Preheat the oven to 325°F, then pre-cook pie crust for 12-18 minutes.
 
-## Instructions
+### Instructions
   1. In a small bowl, mix the sugar and cornstarch; set aside.
 
   2. On low to medium heat in a medium-sized saucepan, add 4 tablespoons of butter, the heavy cream and half and half. After the butter has melted, with a wire whisk slowly add the cornstarch/ sugar mixture. Cook stirring constantly with a wire whisk just until the mixture is thick and creamy. This will take around 10-15 minutes.

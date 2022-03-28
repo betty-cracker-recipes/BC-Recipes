@@ -19,7 +19,7 @@ sidebar_title: Bourbon Pecan Pie
 - ½ cup Semisweet Chocolate Chips
 - 1 Whole Pie Crust
 
-#### Preparation
+### Preparation
 - Preheat the oven to 375°F.
 
 ### Instructions

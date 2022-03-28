@@ -22,7 +22,7 @@ A Fall favorite, this recipe can also be used to make pumpkin muffins by shorten
 - ⅓ cup Water, if needed		
 
 
-#### Preparation:
+### Preparation:
 1. Preheat oven to 350°F.
 
 ### Instructions:

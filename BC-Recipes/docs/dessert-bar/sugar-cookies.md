@@ -16,7 +16,7 @@ Sugar cookies that can be rolled out for any cookie cutter and taste great.
 - 3/4 tsp. baking powder
 - 1/2 tsp. Salt
 
-#### Preparation
+### Preparation
 - Preheat oven to 350°F.
 
 ### Instructions

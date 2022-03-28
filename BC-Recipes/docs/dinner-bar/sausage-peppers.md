@@ -5,5 +5,8 @@ sidebar_title: Sausage & Peppers
 ---
 
 # Sausage & Peppers
+Description
 
-## Recipe Coming Soon! Check Back Later :)
+### Ingredients
+
+### Instructions

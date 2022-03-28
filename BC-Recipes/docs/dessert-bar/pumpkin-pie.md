@@ -21,7 +21,7 @@ A delicious pumpkin pie made with sweetened condensed milk makes the perfect end
 - 1 (12-ounce) can Evaporated Milk
 - 1 Whole Pie Crust
 
-#### Preparation
+### Preparation
 - Preheat your oven to 425°F.
 
 ### Instructions
