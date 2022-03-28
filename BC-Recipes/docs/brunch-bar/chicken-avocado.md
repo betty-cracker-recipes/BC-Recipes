@@ -24,3 +24,5 @@ Grilled chicken sandwhich with avocado and hummus (vegeterian option also availa
 3. Spread hummus on both halves of roll, add chicken, sliced tomato, spinach and avocado.
 
 4. Vegeterian Option: leave out chicken and replace the ciabatta roll with sour dough slices.
+
+ ![Chicken Avocado](./chicken-avocado.png)

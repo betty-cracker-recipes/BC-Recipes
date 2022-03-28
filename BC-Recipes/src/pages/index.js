@@ -73,9 +73,7 @@ export default function Home() {
     <Layout
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-
         <HomepageHeader />
-   
       <main>
         {FeatureList && FeatureList.length > 0 && (
          <section className={styles.features}>
@@ -87,7 +85,6 @@ export default function Home() {
             </div>
           </div>
         </section>
-    
         )}
       </main>
     </Layout>

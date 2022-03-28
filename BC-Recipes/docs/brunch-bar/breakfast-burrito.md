@@ -36,4 +36,4 @@ Veggie egg-white breakfast burrito topped with ketchup & everything bagel season
   8. Use the remaining butter to brown the outside of the tortilla by rotating in the pan.
 
   9. Remove from pan and slice in half, top with ketchup and everything bagel seasoning.
- 
+  ![Breakfast Burrito](./breakfast-burrito.jpg)

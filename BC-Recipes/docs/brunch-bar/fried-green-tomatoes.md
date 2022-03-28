@@ -29,4 +29,6 @@ Fried green tomatoes are a classic Southern dish. Eat as a meal or serve them as
 
  6. Set the cooked tomatoes on paper towels to drain.
 
- 7. Optional: serve with hot sauce
+ 7. Optional: serve with hot sauce.
+
+  ![Fried Green Tomatoes](./fried-green-tomatoes.png)

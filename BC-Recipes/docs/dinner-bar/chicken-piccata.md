@@ -37,3 +37,5 @@ Description
   6. Pour over chicken and place in oven for around 30 minutes, cover with tin foil.
 
   7. Saran wrap to store.
+
+  ![Chicken Piccata](chicken-piccata.png)

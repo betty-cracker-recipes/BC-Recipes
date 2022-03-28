@@ -21,3 +21,4 @@ Double layer bacon lettuce tomato sandwhich.
 
 3. Arrange the cooked bacon, lettuce, and tomato slices on one slice of bread. Spread one side of remaining bread slice with the mayonnaise. Bring the two pieces together to make a sandwich. Repeat for the top layer & serve.
 
+ ![blt](./blt.png)
