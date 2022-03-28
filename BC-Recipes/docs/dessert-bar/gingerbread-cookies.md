@@ -7,28 +7,28 @@ sidebar_title: Gingerbread Cookies
 # Gingerbread Cookie
 Soft gingerbread cookies, perfect for Winter holidays.
 
-## Ingredients:
-- 3 Cups Flour
-- 1/4 tsp. Salt
+### Ingredients:
+- 3 cups All-Purpose Flour
+- ¼ tsp. Salt
 - 2 tsp. Ginger	
 - 1 tsp. Cinnamon			
-- 1/4 tsp. Nutmeg
+- ¼ tsp. Nutmeg
 - 1 tsp. Baking Soda
-- 3/4 Cup Brown Sugar, firmly packed	
-- 3/4 Cup Butter, softened
-- 1/2 Cup Molasses	
-- 1 Egg
+- ¾ cup Brown Sugar, firmly packed	
+- ¾ cup Butter, softened
+- ½ cup Molasses	
+- 1 Large Egg
 - 1 tsp. Vanilla Extract
 
-## Preparation:
+#### Preparation:
 1. Preheat oven to 350°F.
  
-## Instructions:
+### Instructions:
 1. In a large bowl using a hand-held mixer or stand mixer fitted with a paddle attachment, beat the butter for 1 minute on medium speed until completely smooth and creamy. Add the brown sugar and molasses and beat on medium high speed until combined and creamy-looking. Scrape down the sides and bottom of the bowl as needed. Next, beat in egg and vanilla on high speed for 2 full minutes. Scrape down the sides and bottom of the bowl as needed. The butter may separate; that’s ok.
  
 2. In a separate bowl, whisk the flour, baking soda, salt, ginger, cinnamon, allspice, and cloves together until combined. On low speed, slowly mix into the wet ingredients until combined. The cookie dough will be quite thick and slightly sticky. Divide dough in half and place each onto a large piece of plastic wrap. Wrap each up tightly and pat down to create a disc shape. Please see photo and description above in my post. Chill discs for at least 3 hours and up to 3 days. Chilling is mandatory for this cookie dough. I always chill mine overnight.
  
-3. Preheat oven to 350°F. Line 2-3 large baking sheets with parchment paper or silicone baking mats. (Always recommended for cookies.) Set aside.
+3. Line 2-3 large baking sheets with parchment paper or silicone baking mats. (Always recommended for cookies.) Set aside.
 
 4. Remove 1 disc of chilled cookie dough from the refrigerator. Generously flour a work surface, as well as your hands and the rolling pin. Don’t be afraid to continually flour the work surface as needed- this dough can be sticky. Roll out disc until 1/4-inch thick. Cut into shapes. Place shapes 1 inch apart on prepared baking sheets. Re-roll dough scraps until all the dough is shaped. Repeat with remaining disc of dough.
  
@@ -41,13 +41,13 @@ Soft gingerbread cookies, perfect for Winter holidays.
 # Gingerbread Cookie Frosting
 A light glaze, sweetens and keeps cookies moist.
 
-## Ingredients
-- 3 Cups Powdered Sugar, sifted
+### Ingredients
+- 3 cups Powdered Sugar, sifted
 - 3-4 tbsp. Milk
 - 2 tbsp. Light Corn Syrup
-- 1/2 tsp. Vanilla Extract
+- ½ tsp. Vanilla Extract
 
-## Instructions:
+### Instructions:
 1. Combine sugar, 2 Tablespoons of milk, corn syrup, and vanilla extract in a medium-sized bowl and stir until combined. If frosting is too thick, add more milk, about a teaspoon at a time, until the frosting is thick but pipeable. If you accidentally add too much milk, add powdered sugar until desired texture is reached.  
 
 2. If coloring the frosting, divide into bowls and color as desired at this point.
