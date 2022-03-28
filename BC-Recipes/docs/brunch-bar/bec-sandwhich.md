@@ -25,3 +25,5 @@ A New York style bacon, egg and cheese breakfast sandwhich.
  4. Toast bagel in pop-up toaster, once golden brown add remaining butter to pan and put bagel halves face down on the pan to coat them with melted butter.
 
  5. Once the cheese has melted, transfer the eggs to the bagel bottom and top with the bagel top.
+
+ ![BEC](./bec.png)

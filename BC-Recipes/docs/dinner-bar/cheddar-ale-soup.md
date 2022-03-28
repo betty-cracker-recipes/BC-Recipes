@@ -29,8 +29,10 @@ Cheddar Ale Soup is an amazingly comforting cheesy, flavorful soup made with veg
  3. Whisk in ale for about 2 minutes (mix until bubbling + thickened), whisk milk, chicken broth, and dry mustard (Bring to simmer stirring often so it doesn’t scorch bottom of pan).
 
  4. Lower heat + add cheese handful at a time stir until cheese is melted, but don’t let soup boil.
- 
+
  5. Remove from heat, take out bay leaf, add salt/ pepper.
+
+ ![Soup](./cheddar-ale-soup.jpg)
 
 
 

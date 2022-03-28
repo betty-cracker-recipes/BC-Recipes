@@ -25,3 +25,5 @@ Simple avocado toast on sour dough bread, topped with cucumber and everything ba
 4. Use a potato peeler to slice the avocado length-wise.
 
 5. Garnish the toast with the cucumber slices and everything bagel seasoning.
+
+![Avocado Toast](./avocado-toast.png)
