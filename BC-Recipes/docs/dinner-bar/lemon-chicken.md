@@ -4,6 +4,6 @@ title: Creamy Lemon Chicken
 sidebar_title: Creamy Lemon Chicken
 ---
 
-# Creamy Lemon Chicken Recipe
+# Creamy Lemon Chicken
 
 ## Recipe Coming Soon! Check Back Later :)

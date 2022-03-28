@@ -4,9 +4,8 @@ title: Cheddar Ale Soup
 sidebar_title: Cheddar Ale Soup
 ---
 
-# Cheddar Ale Soup Recipe
-
-Description
+# Cheddar Ale Soup
+Cheddar Ale Soup is an amazingly comforting cheesy, flavorful soup made with veggies, beer, and lots of sharp cheddar cheese.
 
 ## Ingredients:
  - 4 tbsp. salted butter
@@ -24,15 +23,10 @@ Description
 
 ## Instructions:
  1. Melt butter in a large saucepan over medium heat, add onion, carrot, celery and bay leaf (stir for 4 minutes/ til vegetables are translucent + soft)
-
  2. Stir in flour, cook for about 3 more minutes
-
- 3. Whisk in ale for about 2 minutes (mix until 
- bubbling + thickened), whisk milk, chicken broth, and dry mustard (Bring to simmer stirring often so it doesn’t scorch bottom of pan)
-
+ 3. Whisk in ale for about 2 minutes (mix until bubbling + thickened), whisk milk, chicken broth, and dry mustard (Bring to simmer stirring often so it doesn’t scorch bottom of pan)
  4. Lower heat + add cheese handful at a time stir until cheese is melted, but don’t let soup boil
-
-5. Remove from heat, take out bay leaf, add salt/ pepper
+ 5. Remove from heat, take out bay leaf, add salt/ pepper
 
 
 

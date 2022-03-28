@@ -4,6 +4,6 @@ title: Sausage & Peppers
 sidebar_title: Sausage & Peppers
 ---
 
-# Sausage & Peppers Recipe
+# Sausage & Peppers
 
 ## Recipe Coming Soon! Check Back Later :)

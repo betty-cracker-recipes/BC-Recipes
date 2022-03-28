@@ -19,9 +19,9 @@ This section contains an overview of our dinner section. If your are interested 
 - [Sugar Cream Pie](../dessert-bar/sugar-cream-pie.md/)
     - A low-effort, sweet vanilla-custard pie.
 - [Pumpkin Pie](../dessert-bar/pumpkin-pie.md/)
-    - Recipe Coming Soon!
+    - A delicious pumpkin pie made with sweetened condensed milk makes the perfect ending to a Thanksgiving feast.
 - [Bourbon Pecan Pie](../dessert-bar/bourbon-pecan-pie.md/)
-    - Recipe Coming Soon!
+    - Rich chocolate bourbon pecan pie.
 - [Bailey's Chocolate Pie](../dessert-bar/baileys-pie.md/)
     - No bake desseert with an Oreo cookie crust and a Baileys Irish Cream, chocolate cheesecake flavored filling.
 

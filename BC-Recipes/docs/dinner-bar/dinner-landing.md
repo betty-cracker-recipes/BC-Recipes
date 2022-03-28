@@ -9,7 +9,7 @@ This section contains an overview of our dinner section. If your are interested 
 
 ## Soups
 - [Cheddar Ale Soup](../dinner-bar/cheddar-ale-soup.md/)
-    - Recipe Coming Soon!
+    - Cheddar Ale Soup is an amazingly comforting cheesy, flavorful soup made with veggies, beer, and lots of sharp cheddar cheese.
 - [Chicken Soup](../dinner-bar/chicken-soup.md/)
     - Recipe Coming Soon!
 
@@ -21,7 +21,7 @@ This section contains an overview of our dinner section. If your are interested 
 - [Creamy Lemon Chicken](../dinner-bar/lemon-chicken.md/)
     - Recipe Coming Soon!
 - [Chicken Marsala](../dinner-bar/chicken-marsala.md/)
-    - Recipe Coming Soon!
+    - An Italian-American dish of golden pan-fried chicken cutlets and mushrooms in a rich Marsala wine sauce.
 
 ## Pork Dishes
 - [Sausage & Peppers](../dinner-bar/sausage-peppers.md/)

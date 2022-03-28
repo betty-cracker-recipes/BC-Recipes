@@ -4,6 +4,6 @@ title: Mango Salmon
 sidebar_title: Mango Salmon
 ---
 
-# Mango Salmon Recipe
+# Mango Salmon 
 
 ## Recipe Coming Soon! Check Back Later :)

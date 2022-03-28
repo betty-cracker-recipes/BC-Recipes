@@ -1,10 +1,10 @@
 ---
 sidebar_position: 6
 title: Gingerbread Cookies
-sidebar_title: Gingerbread Cookie Recipe
+sidebar_title: Gingerbread Cookies
 ---
 
-# Gingerbread Cookie Recipe
+# Gingerbread Cookie
 Soft gingerbread cookies, perfect for Winter holidays.
 
 ## Ingredients:

@@ -4,7 +4,7 @@ title: Bailey's Chocolate Pie
 sidebar_title: Bailey's Chocolate Pie
 ---
 
-# Bailey's Chocolate Pie Recipe
+# Bailey's Chocolate Pie
 No bake desseert with an Oreo cookie crust and a Baileys Irish Cream, chocolate cheesecake flavored filling.
 
 ## Ingredients

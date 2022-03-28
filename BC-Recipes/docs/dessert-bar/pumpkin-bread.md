@@ -4,7 +4,7 @@ title: Pumpkin Bread
 sidebar_title: Pumpkin Bread
 ---
 
-# Pumpkin Bread Recipe
+# Pumpkin Bread
 A Fall favorite, this recipe can also be used to make pumpkin muffins by shortening the cooking time or for a sweeter version top with [Cream Cheese Frosting](https://www.dominosugar.com/recipe/cream-cheese-frosting) and cinnamon!
 
 ### Ingredients:
@@ -27,9 +27,6 @@ A Fall favorite, this recipe can also be used to make pumpkin muffins by shorten
 
 ### Instructions:
 1. Cream shortening, sugar, vanilla & eggs.
-
 2. Stir in pumpkin.
-
 3. Alternate adding dry ingredients and water until blended (you may not need all the water).
-
 4. Bake for 35-55 minutes.

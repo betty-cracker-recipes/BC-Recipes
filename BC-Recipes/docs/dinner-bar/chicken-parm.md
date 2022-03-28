@@ -4,6 +4,6 @@ title: Chicken Parm
 sidebar_title: Chicken Parm
 ---
 
-# Chicken Parm Recipe
+# Chicken Parm
 
 ## Recipe Coming Soon! Check Back Later :)

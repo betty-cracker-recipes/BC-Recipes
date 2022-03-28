@@ -4,6 +4,6 @@ title: Eggplant Parm
 sidebar_title: Eggplant Parm
 ---
 
-# Eggplant Parm Recipe
+# Eggplant Parm 
 
 ## Recipe Coming Soon! Check Back Later :)

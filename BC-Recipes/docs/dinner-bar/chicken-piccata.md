@@ -4,7 +4,7 @@ title: Chicken Piccata
 sidebar_title: Chicken Piccata
 ---
 
-# Chicken Piccata Recipe
+# Chicken Piccata
 
 Description
 

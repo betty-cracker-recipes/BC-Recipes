@@ -4,7 +4,7 @@ title: Twice Baked Potatoes
 sidebar_title: Twice Baked Potatoes
 ---
 
-# Twice Baked Potatoes Recipe
+# Twice Baked Potatoes
 Description
 
 ## Ingredients
