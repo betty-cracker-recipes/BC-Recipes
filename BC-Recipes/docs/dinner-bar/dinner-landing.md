@@ -15,11 +15,11 @@ This section contains an overview of our dinner section. If your are interested 
 
 ## Chicken Dishes
 - [Chicken Piccata](../dinner-bar/chicken-piccata.md/)
-    - Description here
-- [Chicken Parm](../dinner-bar/chicken-parm.md/)
-    - Recipe Coming Soon!
+    - Breaded lemon chicken in a light pinot grigio wine sauce.
+- [Chicken Parmesan](../dinner-bar/chicken-parm.md/)
+    - Italian dish with breaded chicken breast covered in tomato sauce and mozzarella, served over pasta.
 - [Creamy Lemon Chicken](../dinner-bar/lemon-chicken.md/)
-    - Recipe Coming Soon!
+    - Pan cooked creamy lemon garlic chicken made with white wine.
 - [Chicken Marsala](../dinner-bar/chicken-marsala.md/)
     - An Italian-American dish of golden pan-fried chicken cutlets and mushrooms in a rich Marsala wine sauce.
 
@@ -31,10 +31,11 @@ This section contains an overview of our dinner section. If your are interested 
 - [Mango Salmon](../dinner-bar/mango-salmon.md/)
     - Recipe Coming Soon!
 - [Spicy Lemon Sole](../dinner-bar/lemon-sole.md/)
-    - Recipe Coming Soon!
+    - Fish marinated in olive oil and lemon juice, then seasoned with old bay.
 
 ## Vegetarian Dishes
-- [Eggplant Parm](../dinner-bar/eggplant.md/)
-    - Recipe Coming Soon!
+- [Eggplant Parmesan](../dinner-bar/eggplant.md/)
+    - A vegetarian alternative to chicken parm, egg plant slices cooked in marinara sauce topped with cheese.
 - [Twice Baked Potatoes](../dinner-bar/twice-baked-potatoes.md/)
-    - Description here
+    - Baked potato skins filled with mashed potatoes and sour cream, topped with cheese and scallions.
+

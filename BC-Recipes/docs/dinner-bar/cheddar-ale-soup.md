@@ -7,7 +7,7 @@ sidebar_title: Cheddar Ale Soup
 # Cheddar Ale Soup
 Cheddar Ale Soup is an amazingly comforting cheesy, flavorful soup made with veggies, beer, and lots of sharp cheddar cheese.
 
-## Ingredients:
+### Ingredients:
  - 4 tbsp. salted butter
  - 1 bay leaf
  - ½ cup minced onion

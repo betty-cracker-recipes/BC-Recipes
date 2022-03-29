@@ -5,10 +5,9 @@ sidebar_title: Twice Baked Potatoes
 ---
 
 # Twice Baked Potatoes
-Description
-
+ Baked potato skins filled with mashed potatoes and sour cream, topped with cheese and scallions.
 ### Ingredients
-  -
+  - 
 
 #### Preparation
   - 
@@ -31,6 +30,6 @@ Cut potatoes in half lengthwise
 Scoop out the potato in a large bowl
 Add butter, sour cream, and cheese, mix together + put back into potato skin
 Top w/ sprinkles of cheddar cheese
-Bake x 10-15 minutes, then broil to brown top
+Bake for 10-15 minutes, then broil to brown top
 
 ![Twice Baked Potatoes](./twice-baked-potatoes.png)

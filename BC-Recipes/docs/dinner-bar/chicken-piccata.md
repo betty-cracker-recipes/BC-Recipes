@@ -5,20 +5,19 @@ sidebar_title: Chicken Piccata
 ---
 
 # Chicken Piccata
-
-Description
+Breaded lemon chicken in a light pinot grigio wine sauce.
 
 ## Ingredients
-  - Chicken Cutlets
-  - Chicken Broth
-  - Vegetable Oil
-  - Pinot Grigio
-  - A Lemon
+  - 6 Chicken Breast Cutlets 
+  - 2 cups Chicken Broth
+  - ½ Vegetable Oil
+  - ¾ cup Pinot Grigio
+  - ½ Half Lemon
   - 2-3 tbsp. Butter
-  - Seasoned Panko Breadcrumbs
-  - Parsley (optional)
-  - Eggs
-  - Capers
+  - 2 cups Seasoned Panko Breadcrumbs
+  - Parsley, for serving
+  - 2 Large Eggs
+  - 5 tbsp. Capers
 
 ## Preparation
   - Preheat oven to 350°F.
