@@ -16,6 +16,7 @@ Fish marinated in olive oil and lemon juice, then seasoned with old bay.
 - 4 Bay Leaves
 - 4 tbsp. Olive Oil
 
+°F
 ### Instructions
 
 ![Lemon Sole](./lemon-sole.png)
