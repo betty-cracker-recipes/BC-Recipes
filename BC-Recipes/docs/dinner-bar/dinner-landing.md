@@ -25,7 +25,7 @@ This section contains an overview of our dinner section. If your are interested 
 
 ## Pork Dishes
 - [Sausage & Peppers](../dinner-bar/sausage-peppers.md/)
-    - Recipe Coming Soon!
+    - Simple, pan cooked hot sausages, peppers, and onions. No seasoning necessary.
 
 ## Fish Dishes
 - [Mango Salmon](../dinner-bar/mango-salmon.md/)

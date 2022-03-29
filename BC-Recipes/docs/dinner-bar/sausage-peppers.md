@@ -5,24 +5,22 @@ sidebar_title: Sausage & Peppers
 ---
 
 # Sausage & Peppers
-Description
+Simple, pan cooked hot sausages, peppers, and onions. No seasoning necessary.
 
 ### Ingredients
+ - 1 Pack Hot Sausages
+ - 1 Red Pepper
+ - 1 Green Pepper
+ - 1 Red Onion
+ - 2 tbsp.Vegetable Oil
 
 ### Instructions
+ 1. Cut up peppers and onion.
 
-Sausage & Peppers
+ 2. Put olive oil in pan and add sausages, turn frequently with tongs to brown all sides.
 
-Ingredients:
-	Sausages
-	Peppers
-	Onions
-	Vegetable Oil
+ 3. Once sausages are browned, add onion and peppers. Cover and cook for around 15 minutes on medium heat.
 
-Instructions:
-Cut up peppers and onions
-Put olive oil in pan and add sausages, turn frequently to brown all sides
-Once sausage is browned add onion and peppers, cover and cook for around 15 minutes
-Remove sausages, cut lengthwise, return to pan with inside of sausage facing bottom of pan (brown this side)
+ 4. Remove sausages, cut lengthwise, return to pan with inside of sausage facing bottom of pan (brown this side). Cook for additional 10-15 minutes.
 
 ![Sausage Pepper](./sausage-pepper.png)
