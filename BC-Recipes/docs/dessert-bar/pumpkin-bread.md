@@ -33,3 +33,5 @@ A Fall favorite, this recipe can also be used to make pumpkin muffins by shorten
 3. Alternate adding dry ingredients and water until blended (you may not need all the water).
 
 4. Bake for 35-55 minutes.
+
+![Pumpkin Bread](./pumpkin-bread.jpg)

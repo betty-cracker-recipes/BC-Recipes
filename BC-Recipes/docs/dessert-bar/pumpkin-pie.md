@@ -36,3 +36,5 @@ A delicious pumpkin pie made with sweetened condensed milk makes the perfect end
 5. About half-way through the baking, you may want to put foil around the edges or use a pie protector to keep the crust from getting too browned.
 
 6. Cool the pumpkin pie on a wire rack for 2 hours. Serve with whipped cream.
+
+ ![Pumpkin Pie](./pumpkin-pie.png)

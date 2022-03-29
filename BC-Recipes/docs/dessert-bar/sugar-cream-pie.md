@@ -31,4 +31,4 @@ A low-effort, sweet vanilla-custard pie.
 
   5. Refrigerate.
 
-  
+   ![Sugar Cream Pie](./sugar-pie.png)

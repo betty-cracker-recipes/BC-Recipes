@@ -32,3 +32,5 @@ sidebar_title: Bourbon Pecan Pie
 4. Pour the filling into the pie shell. Bake on the bottom shelf of the oven for about 55 minutes, or until the center of the pie is set. Tent the crust with foil halfway through the baking time if the edge is browning too quickly.
 
 5. Transfer the pie to a rack and let cool for at least 1 hour before serving.
+
+![Bourbon Pecan Pie](./bourbon-pecan.png)

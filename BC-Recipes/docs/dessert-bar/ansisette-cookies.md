@@ -39,3 +39,5 @@ Frosted liquorice flavored cookies.
 
  ### Glaze Instructions:
   1. Slowly add milk to confectioners' sugar until preferred consistency is reached (the glaze may run off the sides of the cookie when frosted).
+
+  ![Anisette Cookies](./anisette-cookies.png)

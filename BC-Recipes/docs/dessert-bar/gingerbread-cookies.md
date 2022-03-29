@@ -60,4 +60,5 @@ A light glaze, sweetens and keeps cookies moist.
 
 6. Keep uneaten cookies sealed in an airtight container at room temperature.
 
+![Gingerbread](./gingerbread.jpg)
  

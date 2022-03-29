@@ -57,3 +57,5 @@ Easy to work with frosting that uses meringue powder in place of eggs, making it
  2. When lifting the whisk up off the icing, the icing should drizzle down and smooth out within 10-15 seconds.
  
  3. If it’s too thick, add a little more water. Uf it’s too thin, add a little more sifted confectioners’ sugar.
+
+ ![Sugar Cookies](./sugar-cookies.jpg)

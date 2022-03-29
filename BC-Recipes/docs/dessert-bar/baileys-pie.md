@@ -32,3 +32,5 @@ No bake desseert with an Oreo cookie crust and a Baileys Irish Cream, chocolate 
 6. Gently fold in the whipped topping. Pour filling mixture into prepared pie crust, spreading it out to form an even layer.
 
 7. Refrigerate for 2-6 hours, or until filling is firm and cold. Top with additional whipped topping before cutting and serving.
+
+![Bailey's Pie](./baileys-pie.png)
