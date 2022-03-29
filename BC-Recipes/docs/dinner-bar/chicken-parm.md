@@ -8,4 +8,4 @@ sidebar_title: Chicken Parm
 
 ## Recipe Coming Soon! Check Back Later :)
 
-![Marsala](./chicken-parm.png)
+![Chicken Parm](./chicken-parm.png)

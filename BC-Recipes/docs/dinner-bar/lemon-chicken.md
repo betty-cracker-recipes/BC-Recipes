@@ -25,3 +25,5 @@ description
 3. Melt 3 tbsp. of butter in the pan.
 4. Once melted add cooking wine and let bubble, then reduce heat to medium-low and stir in half and half and lemon juice. 
 5. Add chicken back into pan on low heat for an additional 6 minutes, flipping half way through and serve over pasta.
+
+![Lemon Chicken](./lemon-chicken.png)

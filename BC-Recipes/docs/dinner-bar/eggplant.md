@@ -21,3 +21,5 @@ Add oil to pan
 Cook covered and add to glass dish
 Layer with marinara sauce 
 Top with parmesan and cook covered for 30 minutes
+
+![Eggplant Parm](./eggplant-parm.png)

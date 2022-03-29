@@ -7,3 +7,5 @@ sidebar_title: Spicy Lemon Sole
 # Spicy Lemon Sole 
 
 ## Recipe Coming Soon! Check Back Later :)
+
+![Lemon Sole](./lemon-sole.png)

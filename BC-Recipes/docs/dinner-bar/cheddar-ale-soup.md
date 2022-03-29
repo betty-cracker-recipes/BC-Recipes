@@ -32,7 +32,7 @@ Cheddar Ale Soup is an amazingly comforting cheesy, flavorful soup made with veg
 
  5. Remove from heat, take out bay leaf, add salt/ pepper.
 
- ![Soup](./cheddar-ale-soup.jpg)
+ ![Cheddar Ale Soup](./cheddar-ale-soup.jpg)
 
 
 
