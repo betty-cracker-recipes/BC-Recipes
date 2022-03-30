@@ -5,10 +5,7 @@ sidebar_title: Chicken Soup
 ---
 
 # Chicken Soup
-Description
 
-### Ingredients
-
-### Instructions
+## Recipe Coming Soon Check Back Later!
 
 ![Chicken Soup](./chicken-soup.png)

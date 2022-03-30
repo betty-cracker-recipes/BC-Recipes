@@ -28,8 +28,8 @@ This section contains an overview of our dinner section. If your are interested 
     - Simple, pan cooked hot sausages, peppers, and onions. No seasoning necessary.
 
 ## Fish Dishes
-- [Mango Salmon](../dinner-bar/mango-salmon.md/)
-    - Recipe Coming Soon!
+- [Orange Chili Salmon](../dinner-bar/chili-salmon.md/)
+    - Salmon marinated in orange juice seasoned with brown sugar and chili powder.
 - [Spicy Lemon Sole](../dinner-bar/lemon-sole.md/)
     - Fish marinated in olive oil and lemon juice, then seasoned with old bay.
 

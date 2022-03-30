@@ -69,17 +69,6 @@ const config = {
               {label: 'Subscribe', to: 'https://github.us14.list-manage.com/subscribe/post?u=1b3debc5f2913fafd34b5b7df&id=9f9be4559b', display:'flex'},            
             ],
           },
-          {
-            title: 'Documentation',
-            items: [
-             
-              {
-                label: 'GitHub',
-                href: 'https://github.com/betty-cracker-recipes/BC-Recipes', display:'flex'
-              },
-            ],
-          },
-       
         ], */
         copyright: `Copyright © ${new Date().getFullYear()} Betty Cracker Recipes.`,
       },

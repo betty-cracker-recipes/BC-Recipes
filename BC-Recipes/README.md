@@ -1,5 +1,15 @@
-# Documentation
+# Website Documentation
 
+### Overview
+Using a static site generator I created a documentation website, using primarily java script to create a homepage and a gallery. These pages use lists and functions to display images and text which link to recipe pages. The formatting for these pages is pulled from css files and the recipes themselves are markdown text files. I chose this for my independent study in order to gain experience in UX Design, as this is one of the disciplines I may have to do a rotation in in my upcoming job. I also wanted to get more experience coding and trouble shooting technical problems on my own.
+
+The following explains all files/ folders within this repo to understand what can and cannot be changed and where certain changes should be made if necessary:
+- 'docusaurus' folder: statically generated folder that contains plugins and automatically updated files, nothing in this folder should be manually changed.
+- 'blog' folder: this folder contains markdown x files which make up the blog content. This page does not currently show up on the live website, but to change that it it can be uncommented from the 'docusaurus.config' file under the nav bar items section.
+- 'build' folder:
+- 'docs' folder: This is where all the recipe markdown files and their images are located. Each recipe section has its' own _category_.json file which label and order the sidebar elements
+
+The site also has a search feature which uses API keys generated from Algolia, a hosted search engine. 
 ### Installations
 
 The following software must be installed on your device in order to modify the website locally and/ or deploy changes.
