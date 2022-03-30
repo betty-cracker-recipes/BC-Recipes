@@ -51,7 +51,8 @@ Once the `.env` and `config.json` files are created, modify the `docusaurus.conf
  ```
 
  Once all these steps are complete you will need to open the Git Bash Terminal and run the following commands:
-
+ Since the site is crawled based off the URL all documents must be updated and pushed to the gh-pages live branch, otherwise they will not be added to the search feature.
+ 
  1. Enter the site folder:
   ```
   cd "C:\Users\Jessica\Desktop\BC-Recipes"
