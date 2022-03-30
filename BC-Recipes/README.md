@@ -1,13 +1,36 @@
 # Website Documentation
 
-### Overview
-Using a static site generator I created a documentation website, using primarily java script to create a homepage and a gallery. These pages use lists and functions to display images and text which link to recipe pages. The formatting for these pages is pulled from css files and the recipes themselves are markdown text files. I chose this for my independent study in order to gain experience in UX Design, as this is one of the disciplines I may have to do a rotation in in my upcoming job. I also wanted to get more experience coding and trouble shooting technical problems on my own.
+### Reflection & Document Overview
+Using a static site generator I created a documentation website, using primarily java script to create a homepage and a gallery. These pages use lists and functions to display images and text which link to recipe pages. The formatting for these pages is pulled from css files and the recipes themselves are markdown text files. I chose this for my independent study in order to gain experience in UX Design, as this is one of the disciplines I may have to do a rotation in in my upcoming job. I also wanted to get more experience coding, using Github, working in the command line and trouble shooting technical problems on my own.
 
 The following explains all files/ folders within this repo to understand what can and cannot be changed and where certain changes should be made if necessary:
-- 'docusaurus' folder: statically generated folder that contains plugins and automatically updated files, nothing in this folder should be manually changed.
-- 'blog' folder: this folder contains markdown x files which make up the blog content. This page does not currently show up on the live website, but to change that it it can be uncommented from the 'docusaurus.config' file under the nav bar items section.
-- 'build' folder:
-- 'docs' folder: This is where all the recipe markdown files and their images are located. Each recipe section has its' own _category_.json file which label and order the sidebar elements
+
+Files & Folders that SHOULD NOT be modified:
+- **'docusaurus'** folder: statically generated folder that contains plugins and automatically updated files, nothing in this folder should be manually changed.
+- **'build'** folder:
+- **node_modules** folder:
+- **.gitignore**: 
+- **babel.config.js** file:
+- **package.json & package-lock.json** files:
+- **sidebars.js** file: 
+
+Files & Folders that SHOULD be modified:
+- **'blog'** folder: 
+  - this folder contains markdown x files which make up the blog content. This page does not currently show up on the live website, but to change that it 
+    it can be uncommented from the 'docusaurus.config' file under the nav bar items section.
+- **'docs'** folder: 
+  - This is where all the recipe markdown files and their images are located. Each recipe section has its' own _category_.json file which label and order 
+    the sidebar elements.
+- **src** folder: 
+  - custom.css file which applies formatting to entire website, such as color scheme and theme
+  - the gallery.js and index.js files which create the code for those pages via lists and functions
+  - the index.module.css file which applies formatting specifically to the headers and images in the gallery and homepage.
+- **static** folder: 
+  - stores images for gallery and homepage as well as website icons.
+- **docusaurus.config.js** file:
+- **.env** file: 
+- **config.json** file: 
+
 
 The site also has a search feature which uses API keys generated from Algolia, a hosted search engine. 
 ### Installations
@@ -52,7 +75,7 @@ Once the `.env` and `config.json` files are created, modify the `docusaurus.conf
 
  Once all these steps are complete you will need to open the Git Bash Terminal and run the following commands:
  Since the site is crawled based off the URL all documents must be updated and pushed to the gh-pages live branch, otherwise they will not be added to the search feature.
- 
+
  1. Enter the site folder:
   ```
   cd "C:\Users\Jessica\Desktop\BC-Recipes"
