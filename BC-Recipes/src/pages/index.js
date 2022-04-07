@@ -4,6 +4,8 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 //import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // svg list
@@ -73,7 +75,7 @@ export default function Home() {
     <Layout
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-        <HomepageHeader />
+        <HomepageHeader/>
       <main>
         {FeatureList && FeatureList.length > 0 && (
          <section className={styles.features}>

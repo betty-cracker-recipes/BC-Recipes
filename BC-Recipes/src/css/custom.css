@@ -4,31 +4,41 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* You can override the default Infima variables here. 
+font family changed general text other than under svg
+background color changed to beige
+color to change text
+these changes will be applied to markdown
+
+different colors for dark mode
+*/
 :root {
-  --ifm-color-primary: #e6a9cc;
-  --ifm-color-primary-dark: #e14ea4;
-  --ifm-color-primary-darker: #df409d;
-  --ifm-color-primary-darkest: #ca2284;
-  --ifm-color-primary-light: #eb88c2;
-  --ifm-color-primary-lighter: #ed96c9;
-  --ifm-color-primary-lightest: #f5c1df;
+  --ifm-color-primary: #91b691;
+  --ifm-color-primary-dark: #7da97d;
+  --ifm-color-primary-darker: #74a274;
+  --ifm-color-primary-darkest: #5b8a5b;
+  --ifm-color-primary-light: #a5c3a5;
+  --ifm-color-primary-lighter: #aecaae;
+  --ifm-color-primary-lightest: #ccddcc;
   --ifm-code-font-size: 95%;
+  font-family: 'Georgia';
+  background-color: #c1bcb3;
+  color: #ada89c;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #e6a9cc;
-  --ifm-color-primary-dark: #e14ea4;
-  --ifm-color-primary-darker: #df409d;
-  --ifm-color-primary-darkest: #ca2284;
-  --ifm-color-primary-light: #eb88c2;
-  --ifm-color-primary-lighter: #ed96c9;
-  --ifm-color-primary-lightest: #f5c1df;
+  --ifm-color-primary: #c1bcb3;
+  --ifm-color-primary-dark: #c1bcb3;
+  --ifm-color-primary-darker: #a7a194;
+  --ifm-color-primary-darkest:  #a7a194;
+  --ifm-color-primary-light: #a7a194;
+  --ifm-color-primary-lighter: #ada89c;
+  --ifm-color-primary-lightest: #c1bcb3;
 }
 
 .docusaurus-highlight-code-line {
-  background-color: rgba(63, 13, 48, 0.1);
+  background-color: rgba(233, 162, 224, 0.1);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
@@ -37,3 +47,4 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+

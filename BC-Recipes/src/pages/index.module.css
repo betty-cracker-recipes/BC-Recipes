@@ -2,7 +2,14 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
 
- display flex to center 
+ display flex to center need separate banner for gallery
+
+ media screen can be used to change iphone display
+
+ color in hero banner will change text color
+ background color gets rid of automatic coloring
+ can use this to fill empty space w beige color
+ colors found at docusaurus
  */
 
 .heroBanner {
@@ -10,8 +17,13 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  height: 350px;
+  color: blueviolet;
+  background-color: black;
+  font-style: italic;  
+  font-family: 'Georgia';
 }
-
+ 
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
@@ -24,9 +36,9 @@
   justify-content: center;
 }
 
-.testBanner{
-  height: 400px;
-}
+/* .testBanner{
+  height: 600px;
+} */
 
 .gals {
   display: flex;
