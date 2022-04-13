@@ -25,22 +25,11 @@
 }
 
 .heroImg {
- height: 10%;
- width: 10%;
+
  padding-left: 40px;
  padding-right: 40px;
  padding-top: 20px;
  padding-bottom: 20px;
-}
-
-.galBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  height: flex;
-  font-style: italic;  
-  font-family: 'Georgia';
 }
  
 @media screen and (max-width: 966px) {
