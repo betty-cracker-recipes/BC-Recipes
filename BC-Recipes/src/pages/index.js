@@ -56,6 +56,10 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <img className={styles.heroImg} src="img/landing/baking.png"  /> 
+         <img className={styles.heroImg} src="img/landing/spatula.png"  /> 
+        <img className={styles.heroImg} src="img/landing/hat.png"  />  
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -63,6 +67,9 @@ function HomepageHeader() {
             Sign Up for Emails
           </Link>
         </div>
+       
+              {/* <img className={styles.heroImg} src="img/landing/dinner.svg" /> */}
+            
       </div>
     </header>
   );

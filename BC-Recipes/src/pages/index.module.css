@@ -10,6 +10,7 @@
  background color gets rid of automatic coloring
  can use this to fill empty space w beige color
  colors found at docusaurus
+   background-color: black;
  */
 
 .heroBanner {
@@ -17,9 +18,27 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  height: 350px;
-  color: blueviolet;
-  background-color: black;
+  height: flex;
+  font-style: italic;  
+  font-family: 'Georgia';
+  
+}
+
+.heroImg {
+ height: 10%;
+ width: 10%;
+ padding-left: 40px;
+ padding-right: 40px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+.galBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  height: flex;
   font-style: italic;  
   font-family: 'Georgia';
 }
@@ -35,10 +54,6 @@
   align-items: left;
   justify-content: center;
 }
-
-/* .testBanner{
-  height: 600px;
-} */
 
 .gals {
   display: flex;

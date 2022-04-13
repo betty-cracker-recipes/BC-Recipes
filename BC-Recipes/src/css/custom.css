@@ -1,18 +1,22 @@
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * work well for content-centric websites. The infima variables can also be overridden here.
  */
 
-/* You can override the default Infima variables here. 
+/* 
+
+#a79886 image color for homepage
 
 font family changed general text other than under svg
 
-background color changed to beige
+background color goes to all pages
+font family changes recipe pages as well
 color to change text
 these changes will be applied to markdown
-
+ color: #ada89c;
 different colors for dark mode
+
 */
 :root {
   --ifm-color-primary: #91b691;
@@ -23,20 +27,22 @@ different colors for dark mode
   --ifm-color-primary-lighter: #aecaae;
   --ifm-color-primary-lightest: #ccddcc;
   --ifm-code-font-size: 95%;
-  font-family: 'Georgia';
-  background-color: #c1bcb3;
-  color: #ada89c;
+  background-color: #ccddcc;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #c1bcb3;
-  --ifm-color-primary-dark: #c1bcb3;
-  --ifm-color-primary-darker: #a7a194;
-  --ifm-color-primary-darkest:  #a7a194;
-  --ifm-color-primary-light: #a7a194;
-  --ifm-color-primary-lighter: #ada89c;
-  --ifm-color-primary-lightest: #c1bcb3;
+  --ifm-color-primary: #7e7263;
+  --ifm-color-primary-dark: #716759;
+  --ifm-color-primary-darker: #6b6154;
+  --ifm-color-primary-darkest: #585045;
+  --ifm-color-primary-light: #8b7d6d;
+  --ifm-color-primary-lighter: #908372;
+  --ifm-color-primary-lightest: #9f9485;
+  background-color: #9f9485;
+  color: black;
 }
 
 .docusaurus-highlight-code-line {

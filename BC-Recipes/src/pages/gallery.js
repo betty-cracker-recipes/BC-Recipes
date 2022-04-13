@@ -66,7 +66,7 @@ export default function Gallery() {
       title=""
       description="Description will go into a meta tag in <head />">
         {/* This is where the color of the background*/}
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <header className={clsx('hero hero--primary', styles.galBanner)}>
         <div className="container">
           {/* This is where the title and tagline is displayed they can be eddited in the docusaurus.config file*/}
           <h1 className="hero__title">{'Photo Gallery'}</h1>
