@@ -4,8 +4,6 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-// import useBaseUrl from '@docusaurus/useBaseUrl';
-//import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // svg image list for Homepage
 // images are from undraw and use the HEX code #a79886 
@@ -54,12 +52,16 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
+        {/* titles & subtitles pulled from site config so they only need to be changed in one place*/}
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+
+         {/* icons in homepage banner*/}
          <img className={styles.heroImg} src="img/landing/baking.png" /> 
          <img className={styles.heroImg} src="img/landing/spatula.png" /> 
          <img className={styles.heroImg} src="img/landing/hat.png"  />  
-
+         
+         {/*button text & link*/}
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -73,13 +75,13 @@ function HomepageHeader() {
   );
 }
 
+// makes the content above display to the interface so that it can actually be seen, mapping of above features/ images in list to order them etc.
 export default function Home() {
  const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}>
         <HomepageHeader/>
       <main>
         {FeatureList && FeatureList.length > 0 && (

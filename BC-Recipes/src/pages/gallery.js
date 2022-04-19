@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import styles from './index.module.css';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+// import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 // List of all pictures that will appear in the gallery section
@@ -59,12 +59,9 @@ const gals = [
 
 // function that takes the list, as well as other information and prints it to the screen
 export default function Gallery() {
-  const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+
   return (
-    <Layout
-      title=""
-      description="Description will go into a meta tag in <head />">
+    <Layout>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{'Photo Gallery'}</h1>
