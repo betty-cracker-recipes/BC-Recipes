@@ -31,8 +31,24 @@ Files & Folders that SHOULD be modified:
 - **.env** file: 
 - **config.json** file: 
 
-
 The site also has a search feature which uses API keys generated from Algolia, a hosted search engine. 
+
+### Wireframes
+
+The following wireframes were created in ppt in the ideation phase of my project and then adjusted based off logistics/ capabilities.
+
+PICTURE
+PICTURE
+PICTURE
+
+### Research
+
+Before starting the project I also did techkits from the OPIM Innovate lab on github and git bash to learn their basic use & git functions. Github was not only helpful in hosting my site and being able to go back on changes, but to see similar code other people had done and understand it so it could be modified and incorporated into my code when I was having issues adding features etc.
+
+I also did research through the docusaurus site, youtube video & stack overflow searches to troubleshoot problems I encountered. Two of the bigger problems I encountered during this project were:
+  1. Getting the Gallery to work (Combining, more in-depth understanding of files functions)
+  2. search bar (INCLUDE DESCRIPTION OF HOW PROBLEM WAS OVERCOME, stack overflow, private & public keys experience w docker)
+
 ### Installations
 
 The following software must be installed on your device in order to modify the website locally and/ or deploy changes.
