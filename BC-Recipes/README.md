@@ -38,6 +38,7 @@ The site also has a search feature which uses API keys generated from Algolia, a
 The following wireframes were created in ppt in the ideation phase of my project and then adjusted based off logistics/ capabilities.
 
 PICTURE
+ ![Homepage Mock-Up](./static/img/wireframes/wf1.png)
 PICTURE
 PICTURE
 
