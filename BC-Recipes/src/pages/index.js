@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-import useBaseUrl from '@docusaurus/useBaseUrl';
+// import useBaseUrl from '@docusaurus/useBaseUrl';
 
 //import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Dessert Recipes',
-    Svg: require('@site/static/img/landing/dessert.svg').default,
+    Svg: require('@site/static/img/landing/dessert3.svg').default,
     url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/dessert-landing/',
   },
 ];
@@ -39,7 +39,7 @@ function Feature({Svg, title, url}) {
             <Svg className={styles.featureSvg} alt={title} />
           </div>
       )}
-      <div className="text--center padding-horiz--md">
+      <div className="text--center padding-horiz--md"> 
         <h3>{title}</h3>
       </div>
       </Link>
