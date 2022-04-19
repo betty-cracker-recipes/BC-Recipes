@@ -5,10 +5,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 // import useBaseUrl from '@docusaurus/useBaseUrl';
-
 //import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-// svg list for Homepage
+// svg image list for Homepage
+// images are from undraw and use the HEX code #a79886 
 const FeatureList = [
   {
     title: 'Brunch Recipes', // Homepage Icon Label

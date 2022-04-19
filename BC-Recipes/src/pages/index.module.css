@@ -1,16 +1,16 @@
 /**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
+ * CSS files with the .module.css suffix will be treated as CSS modules and scoped locally.
+ formats specific elements in the index and gallery
 
+ NOTES: 
  display flex to center need separate banner for gallery
 
- media screen can be used to change iphone display
+ media screen can be used to change how the display adjusts to different screens (i.e. converting to phone)
 
- color in hero banner will change text color
- background color gets rid of automatic coloring
- can use this to fill empty space w beige color
- colors found at docusaurus
-   background-color: black;
+ can override variables from Global CSS here (i.e placing 'background-color: black;' in .heroBanner will make it black)
+   - background-color: the color of that element vs.
+   - color: the color of text within the element 
+
  */
 
 .heroBanner {
