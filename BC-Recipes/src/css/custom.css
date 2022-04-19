@@ -5,18 +5,14 @@
  */
 
 /* 
+global CSS (applies formatting to entire website)
+
+On this page...
+- color schemes for light & dark mode
+- background colors & fonts (includes recipe markdown page formatting)
+
 
 #a79886 image color for homepage
-
-font family changed general text other than under svg
-
-background color goes to all pages
-font family changes recipe pages as well
-color to change text
-these changes will be applied to markdown
- color: #ada89c;
-different colors for dark mode
-
 */
 :root {
   --ifm-color-primary: #91b691;
@@ -32,7 +28,6 @@ different colors for dark mode
 
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #7e7263;
   --ifm-color-primary-dark: #716759;
@@ -42,6 +37,7 @@ different colors for dark mode
   --ifm-color-primary-lighter: #908372;
   --ifm-color-primary-lightest: #9f9485;
   background-color: #9f9485;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   color: black;
 }
 

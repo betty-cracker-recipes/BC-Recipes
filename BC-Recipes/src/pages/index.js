@@ -8,12 +8,12 @@ import styles from './index.module.css';
 
 //import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-// svg list
+// svg list for Homepage
 const FeatureList = [
   {
-    title: 'Brunch Recipes', // Homepage 
-    Svg: require('@site/static/img/landing/brunch.svg').default,
-    url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/',
+    title: 'Brunch Recipes', // Homepage Icon Label
+    Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
+    url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/', //Link to Landing Page for Corresponding Recipe Section
   },
   
   {
@@ -28,7 +28,7 @@ const FeatureList = [
   },
 ];
 
-//
+// puts the above list into a function so that the title and svg appear in the correct order, are formatted and link to the URLs
 function Feature({Svg, title, url}) {
   const svgUrl = (Svg);
   return (
@@ -56,9 +56,9 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <img className={styles.heroImg} src="img/landing/baking.png"  /> 
-         <img className={styles.heroImg} src="img/landing/spatula.png"  /> 
-        <img className={styles.heroImg} src="img/landing/hat.png"  />  
+         <img className={styles.heroImg} src="img/landing/baking.png" /> 
+         <img className={styles.heroImg} src="img/landing/spatula.png" /> 
+         <img className={styles.heroImg} src="img/landing/hat.png"  />  
 
         <div className={styles.buttons}>
           <Link
@@ -66,11 +66,9 @@ function HomepageHeader() {
             to="https://github.us14.list-manage.com/subscribe/post?u=1b3debc5f2913fafd34b5b7df&id=9f9be4559b">
             Sign Up for Emails
           </Link>
-        </div>
-       
-              {/* <img className={styles.heroImg} src="img/landing/dinner.svg" /> */}
-            
+        </div>            
       </div>
+
     </header>
   );
 }
