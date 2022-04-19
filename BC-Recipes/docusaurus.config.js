@@ -37,21 +37,26 @@ const config = {
         items: [
           // Recipes Tab
           {type: 'doc', docId: 'intro', position: 'left', label: 'Recipes'},
+
           // Gallery Tab
           {to: '/gallery', label: 'Gallery', position: 'left'},
-          // Blog Tab
+
+          // Blog Tab (if the line below is uncommented then it'll display the content from the blog md section)
           //{to: '/blog', label: 'Blog', position: 'left'},
+
           //Git Repo
           {href: 'https://github.com/betty-cracker-recipes/BC-Recipes', label: 'GitHub', position: 'left'},
         ],
       },
+
       // SEARCH BAR - NAV BAR
       // search only api key, different from one used in .env
+      // configuration for the nav bar is in the config.json file in the general BC Recipes folder
       algolia: {
           apiKey:'095d0154d0a88751c86fdf134f5f5775', indexName:'bc', appId:'33MRM77352', 
       },
 
-      // FOOTER ITEMS
+      // FOOTER ITEMS: I removed the footer links to make it look cleaner but they can be uncommented here.
       footer: {
         style: 'dark', 
      /* links: [

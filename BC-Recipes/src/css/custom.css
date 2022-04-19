@@ -4,9 +4,6 @@ global CSS (applies formatting to entire website)
 On this page...
 - color schemes (infima variables) for light & dark mode
 - background colors & fonts (includes recipe markdown page formatting)
-
-
-#a79886 image color for homepage
 */
 :root {
   --ifm-color-primary: #91b691;
