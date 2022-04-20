@@ -134,7 +134,7 @@ The first time this command is run should create the gh-pages branch.
 - [Favicon](https://favicon.io/): Site Tab Icon
 - [Algolia](https://www.algolia.com/): Search Feature
     - For more info on how to use Algolia DocSearch [click here](https://docsearch.algolia.com/docs/crawler/)
-- [MailChimp](): Email List Management
-- [Docusaurus Styling](): styling tips, hex code generation for light & dark mode infima variables.
+- [MailChimp](https://mailchimp.com/): Email List Management
+- [Docusaurus Style Guide](https://docusaurus.io/docs/styling-layout): styling tips, hex code generation for light & dark mode infima variables.
 
 
