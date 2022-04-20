@@ -47,13 +47,12 @@ Before starting the project I also did techkits from the OPIM Innovate lab on gi
 
 I also did research through the docusaurus site, youtube video & stack overflow searches to troubleshoot problems I encountered. Two of the bigger problems I encountered during this project were:
 
-  |Problem                                                        | Solution |
-  ---------------------------------------------------------------------------
-  | Trouble displaying & linking gallery photos to recipe pages.  |          |
-  | Issue with getting git bash command to scrape site.           |
-  1. Getting the Gallery to work (Combining, more in-depth understanding of files functions)
-  2. search bar (INCLUDE DESCRIPTION OF HOW PROBLEM WAS OVERCOME, stack overflow, private & public keys experience w docker)
+  **Problem**: Trouble displaying & linking gallery photos to recipe pages.   
+    **Solution**: I created a function in the gallery.json file to connect the links properly and then a seperate 'export default' function which took these elements and displayed them to the homescreen rather than trying to fit all the images/ links in a single function. Docusaurus also originally had the index functions written in 2 separate files, having this error allowed me to better understand the functions and re-write/ combine the code for the index so it was in a single file, also included linking, and was easier to read and change features.
 
+  **Problem**: Issue with getting git bash command to scrape site.  
+    **Solution**: The documentation for implementing an Algolia search bar was wrong after checking all my installations and that I had the private and public API keys in the write documents (.env and docusaurus.config) I was still getting an error from gitbash. I was able to find the solution to this error message from stack overflow.
+    
 ### Installations
 
 The following software must be installed on your device in order to modify the website locally and/ or deploy changes.
